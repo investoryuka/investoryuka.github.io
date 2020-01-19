@@ -24,7 +24,7 @@ investoryuka
 
 # Contact
 連絡先を書きましょう。
-- [Twitter(@nogizaka4649)]
+- [Twitter](@nogizaka4649)
 - [Mail](mailto:メールアドレス)
 
 # History。
