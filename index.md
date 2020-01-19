@@ -1,6 +1,6 @@
-#about  
+# about  
  programing study now
 
-##profile  
+## profile  
 investoryuka  
 Okayama city  
