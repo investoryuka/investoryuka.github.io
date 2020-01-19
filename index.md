@@ -1,6 +1,6 @@
-#about
+#about  
  programing study now
 
-##profile
-investoryuka
-Okayama city
+##profile  
+investoryuka  
+Okayama city  
